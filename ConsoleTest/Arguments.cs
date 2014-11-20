@@ -1,11 +1,11 @@
-﻿using Log2Csv.Commands;
+﻿using ConsoleTest.Commands;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Log2Csv
+namespace ConsoleTest
 {
     public static class Arguments
     {

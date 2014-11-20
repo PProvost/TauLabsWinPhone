@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using UavObjectParser;
 using UavTalk;
 
-namespace Log2Csv
+namespace ConsoleTest
 {
     class Program
     {

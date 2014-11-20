@@ -7,8 +7,8 @@
     <ProjectGuid>{843D4911-4BA2-48C1-AF16-B1395D336B69}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Log2Csv</RootNamespace>
-    <AssemblyName>Log2Csv</AssemblyName>
+    <RootNamespace>ConsoleTest</RootNamespace>
+    <AssemblyName>ConsoleTest</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

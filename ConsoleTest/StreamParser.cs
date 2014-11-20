@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using UavTalk;
 using UavTalk.parser;
 
-namespace Log2Csv
+namespace ConsoleTest
 {
     public class StreamParser
     {

@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UavTalk", "UavTalk\UavTalk.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UavObjectParser", "UavObjectParser\UavObjectParser.csproj", "{EC9ADB89-D723-40D8-86EB-678CCE46A5E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log2Csv", "ConsoleTest\Log2Csv.csproj", "{843D4911-4BA2-48C1-AF16-B1395D336B69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{843D4911-4BA2-48C1-AF16-B1395D336B69}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CA22CC08-AEF7-4DC5-9C26-6BF7FD8FC964}"
 	ProjectSection(SolutionItems) = preProject

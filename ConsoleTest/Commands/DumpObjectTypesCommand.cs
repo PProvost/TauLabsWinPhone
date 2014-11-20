@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UavTalk;
 
-namespace Log2Csv.Commands
+namespace ConsoleTest.Commands
 {
     public class DumpObjectTypesCommand : ICommand
     {
